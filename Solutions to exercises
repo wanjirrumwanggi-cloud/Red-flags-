@@ -6,4 +6,5 @@ int main()
 {
     cout << "Hello World!";
     cout << "We are learning C++!";
+    cout << "And we love it!";
 }
